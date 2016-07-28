@@ -21,7 +21,7 @@ You can install these packages locally with `npm`.
 
 ### npm 
 (install all dependencies under the 'node_modules' folder or change style references on index.html to match new destinations)
-> If the latest release does not work with this repository use instead the version number it has been originally designed on. To gain the latest version use, "npm install package&#64;X.Y.Z
+> If the latest release does not work with this repository use instead the version number it has been originally designed on. To gain the latest version use, "npm install package&#64;X.Y.Z"
 
 ```shell
 # Angular - To install latest formal release *Designed on v1.5.8
