@@ -1,0 +1,67 @@
+﻿[
+  {
+    "id": "1",
+    "title": "Random Book",
+    "author": "A Person",
+    "cost": 20,
+    "genre": "Shocking",
+    "posted": "2016-07-28",
+    "synopsis": "Bacon ipsum dolor amet kielbasa tenderloin picanha ham sirloin. Shoulder filet mignon meatloaf kielbasa brisket. Jowl chuck pork prosciutto, turkey pork belly doner hamburger ground round. Kevin brisket pastrami hamburger, andouille pork chop ground round shank rump drumstick sirloin tongue. ",
+    "owner": {
+      "email": "person@mail.co.za",
+      "name": "Person's Name"
+    }
+  },
+  {
+    "id": "2",
+    "title": "Random Book2",
+    "author": "A Person2",
+    "cost": 20,
+    "genre": "Fantasy",
+    "posted": "2016-07-28",
+    "synopsis": "Bacon ipsum dolor amet kielbasa tenderloin picanha ham sirloin. Shoulder filet mignon meatloaf kielbasa brisket. Jowl chuck pork prosciutto, turkey pork belly doner hamburger ground round. Kevin brisket pastrami hamburger, andouille pork chop ground round shank rump drumstick sirloin tongue. ",
+    "owner": {
+      "email": "person2@mail.co.za",
+      "name": "Person2's Name"
+    }
+  },
+  {
+    "id": "3",
+    "title": "Random Book3",
+    "author": "A Person3",
+    "cost": 10,
+    "genre": "Horror",
+    "posted": "2016-07-28",
+    "synopsis": "Bacon ipsum dolor amet kielbasa tenderloin picanha ham sirloin.",
+    "owner": {
+      "email": "person3@mail.co.za",
+      "name": "Person3's Name"
+    }
+  },
+  {
+    "id": "4",
+    "title": "Random Book4",
+    "author": "A Person4",
+    "cost": 10,
+    "genre": "Horror",
+    "posted": "2016-07-27",
+    "synopsis": "Bacon ipsum dolor amet kielbasa tenderloin picanha ham sirloin.",
+    "owner": {
+      "email": "person4@mail.co.za",
+      "name": "Person4's Name"
+    }
+  },
+  {
+    "id": "5",
+    "title": "Random Book5",
+    "author": "A Person5",
+    "cost": 30,
+    "genre": "Fantasy",
+    "posted": "2016-07-29",
+    "synopsis": "Bacon ipsum dolor amet kielbasa tenderloin picanha ham sirloin. Shoulder filet mignon meatloaf kielbasa brisket. Jowl chuck pork prosciutto, turkey pork belly doner hamburger ground round. Kevin brisket pastrami hamburger, andouille pork chop ground round shank rump drumstick sirloin tongue. ",
+    "owner": {
+      "email": "person5@mail.co.za",
+      "name": "Person5's Name"
+    }
+  }
+    ]
