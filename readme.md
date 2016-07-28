@@ -1,7 +1,7 @@
 This app is used to allow users to share their second-hand, unread and unwanted books with other users in the same situation. Instead of allowing books to be thrown away or not used, users can gain points for books they successfully share and then can use those points to 'adopt' books for themself.
 
 > This repository is a Web App based off of the AngularJS v1.x Framework.
-It showcases some of AngularJS's power while also serving as proff that I am capable of using the Framework to develope professional apps for businesses.
+It showcases some of AngularJS's power while also serving as proof that I am capable of using the Framework to develop professional apps for businesses.
 
 ## Dependencies
 
@@ -20,8 +20,8 @@ You can install these packages locally with `npm`.
 
 
 ### npm 
-(install all dependencies under the 'node_modules' folder or change style references on index.html to match new destinations)
-> If the latest release does not work with this repository use instead the version number it has been originally designed on. To gain the latest version use, "npm install package&#64;X.Y.Z"
+> (install all dependencies under the 'node_modules' folder or change style references on index.html to match new destinations)
+If the latest release does not work with this repository use instead the version number it has been originally designed on. To  specify a specific release for install use, "npm install package&#64;X.Y.Z"
 
 ```shell
 # Angular - To install latest formal release *Designed on v1.5.8
